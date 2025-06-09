@@ -1,8 +1,8 @@
 ## 👨‍💻 Israel Rodrigues — *aka* VenenoEntertainment 🎮
 
-![VenenoEntertainment's GitHub stats](https://github-readme-stats.vercel.app/api?username=venenoentertainment&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![VenenoEntertainment's GitHub stats](https://github-readme-stats-seven-beta-95.vercel.app/api?username=venenoentertainment&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VenenoEntertainment&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-seven-beta-95.vercel.app/api/top-langs/?username=VenenoEntertainment&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working on my portfolio
 - 🌱 I’m currently learning C#
