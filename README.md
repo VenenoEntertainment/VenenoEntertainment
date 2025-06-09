@@ -2,7 +2,7 @@
 
 ![VenenoEntertainment's GitHub stats](https://github-readme-stats-seven-beta-95.vercel.app/api?username=venenoentertainment&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
-[![Top Langs](https://github-readme-stats-seven-beta-95.vercel.app/api/top-langs/?username=VenenoEntertainment&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
 
 - 🔭 I’m currently working on my portfolio
 - 🌱 I’m currently learning C#
@@ -18,12 +18,14 @@ Welcome to my GitHub! I'm a passionate developer and game creator from Brazil, w
 
 🎮 I'm a **game developer** and **programmer** with hands-on experience in:
 
-- 💻 **JavaScript**, with projects in:
-  - ⚛️ **React** — Building dynamic web interfaces
-  - 🎮 **GDevelop** — Crafting 2D games with visual programming
+[![Top Langs](https://github-readme-stats-seven-beta-95.vercel.app/api/top-langs/?username=VenenoEntertainment&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🧠 **C#**, mainly used for:
   - 🕹️ **Unity** — Developing immersive game experiences
+
+- 💻 **JavaScript**, with projects in:
+  - ⚛️ **React** — Building dynamic web interfaces
+  - 🎮 **GDevelop** — Crafting 2D games with visual programming
 
 I'm always exploring new tools and frameworks, expanding my skills in both front-end and game development environments.
 
