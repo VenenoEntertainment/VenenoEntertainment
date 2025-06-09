@@ -18,7 +18,6 @@ Welcome to my GitHub! I'm a passionate developer and game creator from Brazil, w
 
 🎮 I'm a **game developer** and **programmer** with hands-on experience in:
 
-[![Top Langs](https://github-readme-stats-seven-beta-95.vercel.app/api/top-langs/?username=VenenoEntertainment&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🧠 **C#**, mainly used for:
   - 🕹️ **Unity** — Developing immersive game experiences
@@ -35,11 +34,8 @@ I'm always exploring new tools and frameworks, expanding my skills in both front
 
 Here's a general overview of the technologies I use across my repositories:
 
-| Language/Tool | Usage (%) |
-|---------------|-----------|
-| JavaScript    | 50%       |
-| C# (Unity)    | 40%       |
-| Other (HTML/CSS, GDScript, etc.) | 10% |
+[![Top Langs](https://github-readme-stats-seven-beta-95.vercel.app/api/top-langs/?username=VenenoEntertainment&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
 
 These stats reflect my main focus areas, with a strong foundation in **JavaScript and C#** across different engines and platforms.
 
